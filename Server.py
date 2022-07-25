@@ -1,7 +1,4 @@
 # SERVER CODE
-# AES Block Cipher 16 bytes block size as supported by pyaes
-# You Can Change the Port Server Listens by passing argument in command line directly
-# Server Code To be Started before Client, or Connection will be refused
 # Author : kiranbam990@gmail.com
 
 import os
